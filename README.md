@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Pranay Thakre</h1>
 <h3 align="center">I am a passionate software engineer from India</h3>
